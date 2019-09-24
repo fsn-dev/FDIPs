@@ -80,10 +80,10 @@ fsn.dev开源社区将立即启动社区任务与活动激励，加入社区即�
 
 ## 联系方式
 中文用户加入微信群沟通：
-![wechat](https://raw.githubusercontent.com/fsn-dev/FDIPs/master/FDIP-0001/mmqrcode1569244670245.png)
+![wechat](https://raw.githubusercontent.com/fsn-dev/FDIPs/master/FDIP-0001/WechatIMG998.jpeg)
 
 英文用户加入tg群沟通：
-
+https://t.me/FsnDevCommunity
 
 用户注册信息仅用于社区注册。
 本次活动最终解释权归fsn.dev开源社区所有。
