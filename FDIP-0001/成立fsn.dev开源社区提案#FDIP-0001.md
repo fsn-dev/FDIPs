@@ -6,8 +6,7 @@ type: 社区计划
 category: 社区
 status: 最终版
 created: 2019-09-23 
-
-update 2019-10-10
+update: 2019-10-10
 ---
 
 ## 成立fsn.dev开源社区
